@@ -210,3 +210,6 @@ Thank you so much!
 
 Oh My Bash is derived from [Oh My Zsh](https://github.com/ohmyzsh/ohmyzsh).
 Oh My Bash is released under the [MIT license](LICENSE.md).
+
+
+My favortie theme: powerline-multiline
